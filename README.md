@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 2. Explore the codebase and documentation to understand how to use the Prompt Engineering techniques.
 
 ## Support 📧
-For any questions or issues regarding this project, feel free to contact the author at [your_email@example.com](mailto:your_email@example.com).
+For any questions or issues regarding this project, feel free to contact the author at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
 
 ## Acknowledgements 🙏
 Special thanks to IBM Advanced AI @ Infinite Learning for providing valuable insights and guidance throughout this course.
