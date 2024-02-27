@@ -1,8 +1,7 @@
-# Build a Chatbot to Analyze PDF Documents Using LLM
+# The Art of Prompt Engineering
 ## Auhor: @sinanazeri
 
-## Mentee assugment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Documents Using LLM from CognitiveClass.ai
-
+## Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering
 ## Mentee Info
 ## Name: Baren Baruna Harahap
 ## Program: IBM Advance AI
