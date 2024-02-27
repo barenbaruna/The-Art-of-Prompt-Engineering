@@ -5,7 +5,7 @@ Welcome to "The Art of Prompt Engineering" repository! This repository contains 
 
 ## Mentee Information 🚀
 - **Name:** Baren Baruna Harahap
-- **Program:** IBM Advanced AI
+- **Program:** IBM Advance AI
 
 ## About the Project ℹ️
 This project explores the fascinating field of Prompt Engineering, where we delve into techniques and strategies for crafting effective prompts to guide AI models in generating desired outputs.
