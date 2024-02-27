@@ -28,7 +28,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Open a pull request.
 
 ## Support
-For any questions or issues regarding this project, feel free to contact the author at [your_email@example.com].
+For any questions or issues regarding this project, feel free to contact the author at [barenbarunaharahap@gmail.com].
 
 ## Acknowledgements
 Special thanks to IBM Advanced AI @ Infinite Learning for providing valuable insights and guidance throughout this course.
