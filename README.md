@@ -8,7 +8,3 @@
 
 ## Tech Stack
 - Python
-- HTML
-- CSS
-- Javascript
-- Flask
