@@ -22,4 +22,4 @@ To get started with this project, follow these steps:
 For any questions or issues regarding this project, feel free to contact the author at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
 
 ## Acknowledgements 🙏
-Special thanks to IBM Advanced AI @ Infinite Learning for providing valuable insights and guidance throughout this course.
+Special thanks to IBM Advanced AI @ Infinite Learning for providing valuable insights and guidance throughout this course. 
